@@ -1,41 +1,19 @@
-# Awesome GitHub Repositories
+# Awesome-GitHub-Repositories
 
-*(Curated by [@AvinashSingh_20](https://twitter.com/AvinashSingh_20))*
+*(Curated by [@AvinashSingh_20](https://x.com/AvinashSingh_20/))*
 
-A community-maintained collection of high-quality, well-organized GitHub repositories. Browse, search, and filter by category using our interactive website.
 
-## 🌐 [Visit Our Website](https://avinash201199.github.io/Awesome-GitHub-Repositories)
+<p>
+  <a href="https://github.com/sponsors/YOUR-USERNAME">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor">
+  </a>
+</p>
 
-Our interactive site features:
-- 🔍 **Search** - Find repositories by name, description, or owner
-- 🏷️ **Filter** - Browse by category (ML, Web Dev, DevOps, Data Science, etc.)
-- ⭐ **GitHub Links** - Direct access to each repository
-- 📝 **Easy Contributions** - Simple JSON-based contribution system
+A community-maintained, ever-growing collection of the best open-source GitHub repositories shared in one of the most helpful tech threads on X (Twitter).  
+This list is organized by topic and includes short descriptions to help you quickly find what you need.
 
-## ✨ Features
-
-- **50+ Repositories** curated across multiple categories
-- **Real-time Search & Filter** functionality
-- **Verified & Unverified** status for community submissions
-- **GitHub Pages Hosted** - Fast, reliable, free hosting
-- **Mobile Responsive** - Works on all devices
-- **Community Driven** - Submit your awesome repos!
-
-## 📚 Categories
-
-- Machine Learning & AI
-- Web Development  
-- DevOps & Cloud
-- Data Science
-- Education
-- Tools & Utilities
-- Security & Penetration Testing
-- Mobile Development
-- Game Development
-
-## 🤝 Want to Contribute?
-
-You're welcome to contribute! See [CONTRIBUTING-GUIDE.md](CONTRIBUTING-GUIDE.md) for details.
+**Want to contribute?**  
+You're very welcome! Just follow the simple steps at the bottom.
 
 ---
 
