@@ -11,7 +11,9 @@ import {
   Smartphone,
   Sparkles,
   TerminalSquare,
-  Wrench
+  Wrench,
+  Blocks,
+  Server
 } from "lucide-react";
 import type { RepoCategory } from "@/data/repositories";
 
@@ -86,6 +88,20 @@ export const categories: CategoryInfo[] = [
     description: "React Native, Flutter, and mobile-first starter kits.",
     icon: Smartphone,
     gradient: "from-amber-400 via-pink-500 to-red-500",
+  },
+  {
+    slug: "blockchain",
+    name: "Blockchain & Web3",
+    description: "Smart contracts, DeFi, NFTs, and decentralized applications.",
+    icon: Blocks,
+    gradient: "from-purple-400 via-violet-500 to-indigo-600",
+  },
+  {
+    slug: "backend",
+    name: "Backend Development",
+    description: "Server-side frameworks, APIs, databases, and backend tools.",
+    icon: Server,
+    gradient: "from-green-400 via-emerald-500 to-cyan-600",
   },
 ];
 

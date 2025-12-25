@@ -4,8 +4,6 @@ import Link from "next/link";
 import { Github, Menu, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { ThemeToggle } from "@/components/ui/theme-toggle";
 import { cn } from "@/lib/utils";
 
 const navLinks = [
@@ -56,7 +54,6 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
-          <ThemeToggle />
           <Link
             href="https://github.com/avinash201199/Awesome-GitHub-Repositories"
             target="_blank"

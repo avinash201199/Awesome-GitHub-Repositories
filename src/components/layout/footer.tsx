@@ -7,13 +7,18 @@ const footerLinks = {
     { label: "Home", href: "/" },
     { label: "Repositories", href: "/repositories" },
     { label: "Categories", href: "/categories" },
+    { label: "GitHub Repository", href: "https://github.com/avinash201199/Awesome-GitHub-Repositories" },
   ],
   about: [
     { label: "About", href: "/about" },
     { label: "Contribution", href: "/contribute" },
   ],
-  repo: [
-    { label: "GitHub Repository", href: "https://github.com/avinash201199/Awesome-GitHub-Repositories" },
+  letsCode: [
+    { label: "Roadmap", href: "https://www.lets-code.co.in/articles/roadmap/" },
+    { label: "Interview Questions", href: "https://www.lets-code.co.in/interview/interviewquestions/" },
+    { label: "PYQs", href: "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/" },
+    { label: "Interview Experience", href: "https://www.lets-code.co.in/interview-experience/" },
+    { label: "Startups list", href: "https://www.lets-code.co.in/interview/interviewquestions/" },
   ],
 };
 
@@ -32,7 +37,7 @@ export function Footer() {
         <div className="grid grid-cols-2 gap-6 sm:grid-cols-3">
           <FooterColumn title="Project" links={footerLinks.project} />
           <FooterColumn title="About" links={footerLinks.about} />
-          <FooterColumn title="GitHub" links={footerLinks.repo} />
+          <FooterColumn title="Lets code" links={footerLinks.letsCode} />
         </div>
 
         <div className="flex items-center gap-3 text-slate-200">
